@@ -1,0 +1,2 @@
+# Time-Series-Forecasting-with-XGBoost
+Time series forecasting with XGBoost offers a robust approach for predicting future values based on historical data. In this project XGBoost is trained on the time series dataset. For time series forecasting, the model takes in historical data and produces forecasts for future time steps. The forecasting process involves recursively feeding the model's own predictions back as inputs for subsequent prediction.
